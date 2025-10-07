@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi-40
 - 👀 I’m interested in flashing custom roms and kernels
-- 🌱 I’m currently learning Mysql,MongoDB,Spring Framework
+- 🌱 I’m currently learning MongoDB & Spring Framework
 
 
 <!---
